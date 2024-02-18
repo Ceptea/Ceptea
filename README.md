@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Hey, I'm Ceptea.
 
 
-I know:
+Programming languages i've learnt:
 
 Python, Java, Html, Javascript, CSS.
