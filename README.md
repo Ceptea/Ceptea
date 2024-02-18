@@ -21,6 +21,3 @@ Hey, I'm Ceptea.
 I know:
 
 Python, Java, Html, Javascript, CSS.
-
-
-I am mostly fluent in python.
