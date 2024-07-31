@@ -24,6 +24,11 @@ Programming languages i've learnt:
 
 Python, Java, Html, Javascript, CSS.
 
+Contact:
 
 
 @ceptes:matrix.org
+
+
+https://ceptea.xyz
+
