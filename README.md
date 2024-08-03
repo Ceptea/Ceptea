@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://mc.ceptea.xyz:8424/img)
 
 Hey, I'm Ceptea.
 
-![](http://mc.ceptea.xyz:8424/img)
 
 Programming languages i've learnt:
 
