@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="http://mc.ceptea.xyz:8424/img">
+<a href="http://mc.ceptea.xyz:8424/img"></a>
 Hey, I'm Ceptea.
 
 
