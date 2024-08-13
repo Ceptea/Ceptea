@@ -23,6 +23,10 @@ Programming languages i've learnt:
 
 
 Python, Java, Html, Javascript, CSS.
+<img src="https://ceptea.xyz/static/python.png" style="width: 25px; height: 25px;">
+<img src="https://ceptea.xyz/static/javascript.png" style="width: 25px; height: 25px;">
+<img src="https://ceptea.xyz/static/javascript.png" style="width: 25px; height: 25px;">
+<img src="https://ceptea.xyz/static/javascript.png" style="width: 25px; height: 25px;">
 <img src="https://ceptea.xyz/static/javascript.png" style="width: 25px; height: 25px;">
 Contact:
 
