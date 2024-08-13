@@ -23,7 +23,7 @@ Programming languages i've learnt:
 
 
 Python, Java, Html, Javascript, CSS.
-
+![](https://ceptea.xyz/static/javascript.png)
 Contact:
 
 
