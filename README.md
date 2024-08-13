@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![](http://mc.ceptea.xyz:8424/img)
 
-Hey, I'm Ceptea.
+# Hey, I'm Ceptea.
 
 
 Programming languages i've learnt:
