@@ -23,6 +23,7 @@ Programming languages i've learnt:
 
 
 <img src="https://ceptea.xyz/static/python.png" style="width: 25px; height: 25px;"><img src="https://ceptea.xyz/static/java.png" style="width: 25px; height: 25px;"><img src="https://ceptea.xyz/static/javascript.png" style="width: 25px; height: 25px;"><img src="https://ceptea.xyz/static/html.png" style="width: 25px; height: 25px;"><img src="https://ceptea.xyz/static/css.png" style="width: 25px; height: 25px;">
+
 Contact:
 
 
