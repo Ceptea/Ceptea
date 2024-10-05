@@ -4,6 +4,6 @@
 
 Programming languages i've learnt:
 <br>
-Python, Javascript, Java
+Python, Javascript, Java<br>
 Contact:<br>
 Ceptea on discord
